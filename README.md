@@ -1,4 +1,4 @@
-# Docker Node Example
+# Run this Docker Build from Jenkins set up in K8 Cluster 
 This is a simple example for running a Node.js Server with Docker. 
 
 ## Build
